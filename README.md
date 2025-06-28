@@ -1,12 +1,4 @@
-## 🙇🏿‍♂️E ai! Eu sou o Kauã Alexandre de Oliveira Santana e quero ser um programador
-✅Estas são as linguagens que estou aprendendo
+## Estas são as linguagens que estou aprendendo atualmente
+<img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<div>
-  <p>Minhas metas em 2025</p>
-  <ul>
-    <li>Retomar o estudo de Python pela plataforma Curso em Vídeo</li>
-    <li>Concluir o modulo 3 de HTML 5 e CSS 3 do Curso em Vídeo</li>
-  </ul>
-</div><img width='150px' src='inspectocat.png' />
+<img width='250px' src='65b1c43cb900adf5228903db12d95839-removebg-preview.png' display='flex' style='justify-content: flex-end' />
